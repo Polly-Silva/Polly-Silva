@@ -4,6 +4,7 @@
 💡 Apaixonada por transformar tecnologia em soluções que simplificam vidas!
 
 🌌 Estudo e exploração do fascinante universo da computação quântica , aprendizado de máquina e modelos inspirados no cérebro humano . 
+
 Meu sonho? 🌈 Usar essas tecnologias de ponta para criar aplicações que realmente fazem a diferença no dia a dia das pessoas!
 
 📚 Por enquanto, estou mergulhando nos estudos e trabalhando em projetos como meu app de controle financeiro pessoal em Flutter (meu TCC 💸❤️), além de outras ideias que surgem para explorar e aprender cada vez mais.
@@ -13,7 +14,7 @@ O que você vai encontrar por aqui:
 🔬 Estudos e experimentos focados no aprendizado contínuo.
 🌍 Um desejo genuíno de usar tecnologia para impactar especificamente o mundo!
 
-💬 Vamos conversar e explorar juntos o poder infinito da tecnologia?  🚀🤖⚡
+💬 Vamos conversar e explorar juntos o poder infinito da tecnologia?  🚀⚡
 
 
 <div style="display: inline_block"><br>
