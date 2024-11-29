@@ -1,6 +1,5 @@
 
-Olá, sou Polly Silva! 👋
-
+## Olá, sou a Polly Silva👋!
 
 💡 Apaixonada por transformar tecnologia em soluções que simplificam vidas!
 
