@@ -1,5 +1,7 @@
 
 Olá, sou Polly Silva! 👋
+
+
 💡 Apaixonada por transformar tecnologia em soluções que simplificam vidas!
 
 Estude e explore o fascinante universo da computação quântica , aprendizado de máquina e modelos inspirados no cérebro humano . Meu objetivo é aplicar essas tecnologias de ponta para criar aplicações que realmente façam a diferença no dia a dia das pessoas.
