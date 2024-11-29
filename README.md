@@ -1,18 +1,17 @@
-## Olá, sou a Polly Silva👋!
 
+Olá, sou Polly Silva! 👋
+💡 Apaixonada por transformar tecnologia em soluções que simplificam vidas!
 
-💡 Transforme ideias em soluções tecnológicas!
+Estude e explore o fascinante universo da computação quântica , aprendizado de máquina e modelos inspirados no cérebro humano . Meu objetivo é aplicar essas tecnologias de ponta para criar aplicações que realmente façam a diferença no dia a dia das pessoas.
 
-Sou desenvolvedora apaixonada por criar aplicações modernas e intuitivas que simplificam problemas complexos. Aqui no meu GitHub, você encontrará projetos que destacam:
+Por enquanto, estou mergulhado nos estudos e projetos como meu app de controle financeiro pessoal em Flutter , além de outras ideias que surgem para experimentar e aprender cada vez mais.
 
-💻 Desenvolvimento Full Stack: Aplicativos dinâmicos com React, Node.js e HTML/CSS.
-📱 Apps Mobile: Criação de aplicativos multiplataforma em Flutter com foco em segurança (GDPR/LGPD).
-⚙️ Backend & Dados: Arquiteturas eficientes, APIs e automação.
-🌟 UX/UI: Interfaces acessíveis e designs intuitivos.
-🚀 Metodologias Ágeis: Entregas rápidas e colaborativas com Scrum.
-Ferramentas favoritas: React, Flutter, Node.js, Supabase e Power BI.
+Aqui no GitHub, você encontra:
 
-Vamos construir algo incrível juntos? 🚀
+Projetos práticos e funcionais que unem tecnologia e criatividade.
+Estudos e experimentos com foco em aprendizagem contínua.
+Um desejo genuíno de usar tecnologia para impactar positivamente o mundo! 🌍
+Vamos conversar e explorar juntos o potencial infinito da tecnologia? 🚀
 
 
 <div style="display: inline_block"><br>
