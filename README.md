@@ -1,30 +1,18 @@
 ## Olá, sou a Polly Silva👋!
 
 
-Sou apaixonada por criar soluções tecnológicas que simplifiquem problemas complexos e gerem valor real para os usuários. Minha trajetória combina habilidades em desenvolvimento de software , projetos ágeis e um forte foco na experiência do usuário .
+💡 Transforme ideias em soluções tecnológicas!
 
-Aqui no GitHub você encontrará projetos que destacam minha experiência em:
+Sou desenvolvedora apaixonada por criar aplicações modernas e intuitivas que simplificam problemas complexos. Aqui no meu GitHub, você encontrará projetos que destacam:
 
-💻 Desenvolvimento Web Full Stack : construção de aplicações completas utilizando React , Node.js e HTML/CSS para interfaces modernas e dinâmicas.
+💻 Desenvolvimento Full Stack: Aplicativos dinâmicos com React, Node.js e HTML/CSS.
+📱 Apps Mobile: Criação de aplicativos multiplataforma em Flutter com foco em segurança (GDPR/LGPD).
+⚙️ Backend & Dados: Arquiteturas eficientes, APIs e automação.
+🌟 UX/UI: Interfaces acessíveis e designs intuitivos.
+🚀 Metodologias Ágeis: Entregas rápidas e colaborativas com Scrum.
+Ferramentas favoritas: React, Flutter, Node.js, Supabase e Power BI.
 
-📱 Desenvolvimento Mobile : aplicativos multiplataforma com Flutter , como o app de controle financeiro pessoal , que utiliza padrões de projeto como MVP, Supabase para backend e foco em segurança de dados (GDPR e LGPD).
-
-⚙️ Soluções Backend : design e implementação de arquiteturas eficientes integradas a bancos de dados e serviços em nuvem.
-
-📊 Integração de Dados e APIs : desenvolvimento de pipelines de dados, consumo de APIs externas e automação de processos.
-
-🚀 Projetos Ágeis e Metodologias Modernas : aplicações desenvolvidas seguindo práticas como Scrum e integração contínua para garantir entregas iterativas e de alta qualidade.
-
-🌟 Foco em UX/UI : design intuitivo e acessível, garantindo uma experiência de usuário satisfatória.
-
-Linguagens e Tecnologias :
-
-Frontend : React, HTML, CSS, JavaScript
-Móvel : Flutter, Dart
-Backend : Node.js, Supabase
-Ferramentas : Git, Scrum, Power BI
-
-Seja desenvolvendo aplicações do zero ou ampliando funcionalidades existentes, estou sempre em busca de inovações que atendam às necessidades dos usuários e tragam impacto positivo. 
+Vamos construir algo incrível juntos? 🚀
 
 
 <div style="display: inline_block"><br>
