@@ -3,15 +3,19 @@
 
 💡 Apaixonada por transformar tecnologia em soluções que simplificam vidas!
 
-Estude e explore o fascinante universo da computação quântica , aprendizado de máquina e modelos inspirados no cérebro humano . Meu objetivo é aplicar essas tecnologias de ponta para criar aplicações que realmente façam a diferença no dia a dia das pessoas.
+Estude e explore o fascinante universo da computação quântica , aprendizado de máquina e modelos inspirados no cérebro humano . 
+Meu objetivo é aplicar essas tecnologias de ponta para criar aplicações que realmente façam a diferença no dia a dia das pessoas.
 
 Por enquanto, estou mergulhado nos estudos e projetos como meu app de controle financeiro pessoal em Flutter , além de outras ideias que surgem para experimentar e aprender cada vez mais.
 
 Aqui no GitHub, você encontra:
 
 Projetos práticos e funcionais que unem tecnologia e criatividade.
+
 Estudos e experimentos com foco em aprendizagem contínua.
+
 Um desejo genuíno de usar tecnologia para impactar positivamente o mundo! 🌍
+
 Vamos conversar e explorar juntos o potencial infinito da tecnologia? 🚀
 
 
