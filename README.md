@@ -10,8 +10,11 @@ Meu sonho? 🌈 Usar essas tecnologias de ponta para criar aplicações que real
 📚 Por enquanto, estou mergulhando nos estudos e trabalhando em projetos como meu app de controle financeiro pessoal em Flutter (meu TCC 💸❤️), além de outras ideias que surgem para explorar e aprender cada vez mais.
 
 O que você vai encontrar por aqui:
+
 ✨ Projetos práticos e criativos que unem tecnologia e inovação.
+
 🔬 Estudos e experimentos focados no aprendizado contínuo.
+
 🌍 Um desejo genuíno de usar tecnologia para impactar especificamente o mundo!
 
 💬 Vamos conversar e explorar juntos o poder infinito da tecnologia?  🚀⚡
