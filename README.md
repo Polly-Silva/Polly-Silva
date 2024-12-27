@@ -1,6 +1,7 @@
-# 👩‍💻 Pollyane Rodrigues Fernandes da Silva
+# 👩‍💻  Olá! Sejam muito bem-vindos(as) ao meu Git!!! 😄
 
-🌟 **Desenvolvedora em transição para Full Stack | Foco em React, Angular e desenvolvimento web moderno**  
+
+🌟 *Profissional de TI em transição para Full Stack | Foco em React, Angular e desenvolvimento moderno**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PollyaneRodrigues-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pollyane-rodrigues)
 [![GitHub](https://img.shields.io/badge/GitHub-PollyaneRodrigues-lightgrey?style=flat-square&logo=github)](https://github.com/PollyaneRodrigues)
@@ -39,8 +40,8 @@
 
 ## 📈 Minhas Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PollyaneRodrigues&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PollyaneRodrigues&show_icons=true&theme=radical)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=PollyaneRodrigues&layout=compact&theme=radical)](https://br.linkedin.com/in/pollyrfs)
+![GitHub Stats](https://github.com/Polly-Silva)
 
 ---
 
