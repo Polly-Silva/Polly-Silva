@@ -1,41 +1,35 @@
-## 💖 Olá, gamers, devs e caçadores(as) de talentos tech! 💎👋
+## 💖 Olá, sejam muito bem-vindos(as) ao meu Git 👋!
+
+💻 **Em transição da área de Analista de Sistemas para Desenvolvimento de Software** | Foco em **React**, **Angular**, e tecnologias modernas de desenvolvimento web e aplicativos.  
+✨ Tenho uma paixão genuína por **tecnologia** e me divirto aprendendo a desenvolver aplicativos que impactem positivamente a rotina das pessoas, tornando-a mais simples, produtiva e eficiente.  
+📚 Estou constantemente me especializando para alcançar o objetivo de me tornar uma desenvolvedora de destaque, com ênfase no **desenvolvimento de aplicativos móveis**, que considero mais desafiador e recompensador.
 
 <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
 
 ---
 
-### 🌟 **Game On! Construindo Mundos Digitais**
-
-Oi, eu sou a **Polly Silva** 🌌💖 - Engenheira de Computação e aventureira no universo tech! 👩‍💻 Estou em missão para evoluir de **Analista de Sistemas** para **Desenvolvedora de Software**, criando apps móveis e soluções web modernas e responsivas! 🚀
-
-💡 **Skills Especiais**: Frontend (**React**, **Angular**), Backend (**Node.js**), Apps Móveis (**Flutter e Dart**). Amo transformar códigos em experiências únicas e impactantes! 🚀🎮
-
-> 🔧 *Jogos, códigos e criatividade são meu combo favorito!* 
-
----
-
-### 🔧 **Inventário Tecnológico**
+### 🛠 **Habilidades Técnicas**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,nodejs,csharp,mongodb,git,azure,redis" alt="Skills Técnicas">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,nodejs,csharp,mongodb,git,azure,redis" alt="Habilidades técnicas">
 </div>
 
 ---
 
-### 🚀 **Missões Concluídas**
+### 🚀 **Projetos em Destaque**
 
 #### **1. [App de Controle Financeiro](https://app-paagaah.flutterflow.app/loginCadastro)**  
 🔧 **Tecnologias**: Flutter, Supabase, Dart  
-📊 App criado como **TCC**, com foco em UX/UI, relatórios detalhados e visual incrível para gestão financeira.  
-🎯 **Desafio vencido! Solução prática e gamificada para organização de despesas.**
+📊 Aplicativo desenvolvido como **TCC**, com foco em UX/UI, relatórios detalhados e visual incrível para gestão financeira.  
+🎯 Este projeto combina minha paixão por criar soluções práticas com minha habilidade em transformar dados em informações úteis.
 
-#### **2. Previsão de Churn - Inteligência Artificial**  
-📊 Modelo preditivo com **Machine Learning** e metodologia **CRISP-DM**.  
-💡 Atuei como **Product Owner**, liderando equipes ágeis com foco em dados e insights inteligentes.
+#### **2. Projeto de Previsão de Churn**  
+📊 Desenvolvimento de um modelo preditivo para churn, utilizando **Machine Learning** e metodologia **CRISP-DM**, liderando uma squad como Product Owner.  
+💡 Este projeto foi essencial para meu aprendizado em liderança técnica e colaboração em equipes ágeis.
 
-#### **3. Landing Page - Design Futurista com Angular**  
-🎨 APIs REST e responsividade.  
-🚀 Criada para proporcionar uma navegação fluida e moderna. 
+#### **3. Landing Page com Angular**  
+🎨 Página responsiva utilizando **Angular** e **consumo de APIs REST**, com foco em design moderno e intuitivo.  
+🚀 Meu objetivo foi oferecer uma experiência fluida e profissional ao usuário final.
 
 ---
 
@@ -65,14 +59,19 @@ Oi, eu sou a **Polly Silva** 🌌💖 - Engenheira de Computação e aventureira
 
 ---
 
-### 💨 **Level Up Visuals!**
+### ✨ **Efeitos Visuais**
+
+#### **Animações com GIFs**
+
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
 
 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600px" align="center">
 
+#### **Incorporar animações SVG (Exemplo de Skyline)**
 ```html
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="200">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#gradient)" font-size="30">
-    Polly Silva - Criadora de Códigos e Mundos Digitais
+    Polly Silva - Apaixonada por Desenvolvimento de Apps
   </text>
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -83,6 +82,4 @@ Oi, eu sou a **Polly Silva** 🌌💖 - Engenheira de Computação e aventureira
 </svg>
 ```
 
----
-
-📢 **Vamos codar, criar e conquistar juntos!** 🚀💖
+📢 **Estou entusiasmada para contribuir em projetos impactantes e construir soluções incríveis. Vamos trabalhar juntos?** 🚀💖
