@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, eu sou Polly Silva, desenvolvedora em transição da área de Analista de Sistemas! Meu foco atual está em <strong>React</strong>, <strong>Angular</strong>, e no desenvolvimento de aplicativos móveis e soluções web modernas e responsivas.<br>
+  Olá, eu sou a Polly Silva✨, desenvolvedora em transição da área de Analista de Sistemas! Meu foco atual está em <strong>React</strong>, <strong>Angular</strong>, e no desenvolvimento de aplicativos móveis e soluções web modernas e responsivas.<br>
   Atualmente, dedico-me ao aprendizado constante e à criação de projetos que impactam positivamente a vida das pessoas.
 </p>
 
