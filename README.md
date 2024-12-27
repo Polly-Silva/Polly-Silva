@@ -1,4 +1,4 @@
-<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="GIF animado de Olá Mundo" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GIF divertido de saudação" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   🎉 Olá, eu sou a Polly Silva, exploradora do universo tech em transição da área de Analista de Sistemas! Estou mergulhada no mundo do <strong>React</strong>, <strong>Angular</strong>, e apaixonada por criar aplicativos móveis e soluções web incríveis. 💻
