@@ -1,9 +1,9 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GIF divertido de saudação" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GIF animado de sejam muito bem-vindos(as)!" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  🎉 Olá, eu sou a Polly Silva, exploradora do universo tech em transição da área de Analista de Sistemas! Estou mergulhada no mundo do <strong>React</strong>, <strong>Angular</strong>, e apaixonada por criar aplicativos móveis e soluções web incríveis. 💻
+  🎉 Olá, sejam muito bem-vindos(as)! Sou Polly Silva, uma profissional apaixonada pelo universo tecnológico, em transição da área de Analista de Sistemas para Desenvolvimento de Software. Minha dedicação está voltada para o <strong>React</strong>, <strong>Angular</strong>, e o desenvolvimento de soluções web modernas e aplicativos móveis inovadores. 💻
 <br>
-✨ Atualmente, invisto meu tempo em aprender e desenvolver projetos que fazem a diferença na rotina das pessoas, transformando ideias em realidade! 🚀
+✨ Dedico-me continuamente ao aprendizado e à execução de projetos que impactam positivamente a vida das pessoas, transformando ideias complexas em soluções práticas e eficientes. 🚀
 </p>
 
 <p align="left">
@@ -64,8 +64,14 @@
 
 ---
 
+### ✨ **Efeitos Visuais**
+
+#### **Animações com GIFs**
+
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="600px" align="center">
+
 <div align="center">
   <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
 </div>
 
-📢 **Estou pronta para contribuir em projetos inovadores e criar soluções excepcionais. Vamos colaborar?** 🚀
+📢 **Estou comprometida em colaborar em projetos inovadores e desenvolver soluções que superem expectativas. Vamos trabalhar juntas(os)?** 🚀
