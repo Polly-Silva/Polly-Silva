@@ -64,12 +64,6 @@
 
 ---
 
-### ✨ **Efeitos Visuais**
-
-#### **Animações com GIFs**
-
-<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="600px" align="center">
-
 <div align="center">
   <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
 </div>
