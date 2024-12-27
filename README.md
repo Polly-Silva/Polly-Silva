@@ -61,7 +61,7 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" align="center">
 
 #### **Incorporar animações SVG (Exemplo de Skyline)**
-```html
+html
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#gradient)" font-size="24">
     Polly Silva - Dev Full Stack
