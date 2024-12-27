@@ -1,6 +1,6 @@
 ## 💖 Olá, sejam muito bem-vindos(as) ao meu Git 👋!
 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="600px" align="center">
 
 💻 **Em transição da área de Analista de Sistemas para Desenvolvimento de Software** | Foco em **React**, **Angular**, e tecnologias modernas de desenvolvimento web e aplicativos.  
 ✨ Tenho uma paixão genuína por **tecnologia** e me divirto aprendendo a desenvolver aplicativos que impactem positivamente a rotina das pessoas, tornando-a mais simples, produtiva e eficiente.  
@@ -65,6 +65,6 @@
 
 <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
 
-<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600px" align="center">
+<img src="https://www.reddit.com/r/DCAU/comments/15wwnjz/the_dcaus_version_of_wonder_woman_was_my_official/?tl=pt-br" width="600px" align="center">
 
 📢 **Estou entusiasmada para contribuir em projetos impactantes e construir soluções incríveis. Vamos trabalhar juntos?** 🚀💖
