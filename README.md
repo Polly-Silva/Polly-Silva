@@ -1,20 +1,21 @@
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="GIF de uma mulher desenvolvendo no computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="GIF animado de Olá Mundo" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, eu sou Polly Silva, desenvolvedora em transição da área de Analista de Sistemas! Meu foco atual está em <strong>React</strong>, <strong>Angular</strong>, e no desenvolvimento de aplicativos móveis e soluções web modernas e responsivas.<br>
-  Atualmente, dedico-me ao aprendizado constante e à criação de projetos que impactam positivamente a vida das pessoas.
+  🎉 Olá, eu sou a Polly Silva, exploradora do universo tech em transição da área de Analista de Sistemas! Estou mergulhada no mundo do <strong>React</strong>, <strong>Angular</strong>, e apaixonada por criar aplicativos móveis e soluções web incríveis. 💻
+<br>
+✨ Atualmente, invisto meu tempo em aprender e desenvolver projetos que fazem a diferença na rotina das pessoas, transformando ideias em realidade! 🚀
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#
+  🦄 <strong>Linguagens que adoro trabalhar:</strong> Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas:</strong> Node.js, MongoDB, Git, Azure DevOps, Redis
+  🛠️ <strong>Ferramentas favoritas:</strong> Node.js, MongoDB, Git, Azure DevOps, Redis
 </p>
 
 <p align="left">
-  💌 <strong>Entre em contato comigo:</strong> ⤵️
+  📬 <strong>Quer conversar? Estou aqui:</strong>
 </p>
 
 <p align="left">
@@ -69,6 +70,8 @@
 
 <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="600px" align="center">
 
-<img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" align="center">
+<div align="center">
+  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
+</div>
 
 📢 **Estou pronta para contribuir em projetos inovadores e criar soluções excepcionais. Vamos colaborar?** 🚀
