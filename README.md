@@ -1,4 +1,4 @@
-## 🌟 Olá, sou Polly Silva 👋!
+## 🌟 Olá, sejam muito bem-vindos(as) ao meu Git 👋!
 
 💻 **Em transição da área de Analista de Sistemas para Desenvolvimento de Software** | Foco em **React**, **Angular**, e tecnologias modernas de desenvolvimento web e aplicativos.  
 ✨ Tenho uma paixão genuína por **tecnologia** e por criar soluções que impactem positivamente a rotina das pessoas, tornando-a mais simples, produtiva e eficiente.  
@@ -61,18 +61,18 @@
 
 #### **Animações com GIFs**
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400px" align="center">
+<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600px" align="center">
 
 #### **Incorporar animações SVG (Exemplo de Skyline)**
 ```html
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#gradient)" font-size="24">
-    Polly Silva - Apaixonada por Desenvolvimento
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#gradient)" font-size="30">
+    Polly Silva - Apaixonada por Desenvolvimento de Apps
   </text>
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4c91ff;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#ff758c;stop-opacity:1"/>
+      <stop offset="0%" style="stop-color:#ffb3ba;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ffdfba;stop-opacity:1"/>
     </linearGradient>
   </defs>
 </svg>
