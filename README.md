@@ -1,14 +1,15 @@
 ## 🌟 Olá, sou Polly Silva 👋!
 
 💻 **Desenvolvedora em transição para Full Stack** | Foco em **React**, **Angular**, e tecnologias modernas de desenvolvimento web.  
-🔟 Apaixonada por **tecnologia** e pelo impacto que ela pode causar na vida das pessoas.  
+🔟 Apaixonada por **tecnologia** e pelo impacto que ela pode trazer para a rotina das pessoas, ajudando a simplificar o dia a dia com soluções inovadoras.  
+💡 Amo **desenvolvimento de aplicativos** ainda mais do que web, criando experiências únicas e úteis para os usuários.  
 
 ---
 
 ### 🛠 **Habilidades Técnicas**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,js,html,css,nodejs,csharp,mongodb,git,azure,redis" alt="Habilidades técnicas">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,nodejs,csharp,mongodb,git,azure,redis" alt="Habilidades técnicas">
 </div>
 
 ---
@@ -57,7 +58,7 @@
 
 #### **Animações com GIFs**
 
-<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="400px" align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" align="center">
 
 #### **Incorporar animações SVG (Exemplo de Skyline)**
 ```html
