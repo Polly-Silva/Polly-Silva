@@ -1,10 +1,30 @@
-## 🌟 Bem-vindo(a) ao meu perfil no GitHub
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="600px" align="center">
+<p align="left"> 
+  Olá, eu sou Polly Silva, desenvolvedora em transição da área de Analista de Sistemas! Meu foco atual está em <strong>React</strong>, <strong>Angular</strong>, e no desenvolvimento de aplicativos móveis e soluções web modernas e responsivas.<br>
+  Atualmente, dedico-me ao aprendizado constante e à criação de projetos que impactam positivamente a vida das pessoas.
+</p>
 
-💻 Atualmente em transição da área de Analista de Sistemas para Desenvolvimento de Software, com foco em **React**, **Angular**, e tecnologias modernas para desenvolvimento web e aplicativos móveis.  
-🎯 Sou apaixonada por tecnologia e por criar soluções inovadoras que simplifiquem e otimizem a rotina das pessoas, tornando-a mais prática e eficiente.  
-📘 Estou sempre em busca de aprimorar minhas habilidades e conhecimentos, com o objetivo de me destacar no desenvolvimento de aplicativos móveis, uma área que considero desafiadora e recompensadora.
+<p align="left">
+  🦄 <strong>Linguagens:</strong> Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#
+</p>
+
+<p align="left">
+  💼 <strong>Ferramentas:</strong> Node.js, MongoDB, Git, Azure DevOps, Redis
+</p>
+
+<p align="left">
+  💌 <strong>Entre em contato comigo:</strong> ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:pollyanerodriguesfernandes@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://br.linkedin.com/in/pollyrfs" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
 ---
 
@@ -63,7 +83,7 @@
 
 #### **Animações com GIFs**
 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="600px" align="center">
 
 <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" align="center">
 
