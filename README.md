@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="GIF de uma mulher desenvolvendo no computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá, eu sou Polly Silva, desenvolvedora em transição da área de Analista de Sistemas! Meu foco atual está em <strong>React</strong>, <strong>Angular</strong>, e no desenvolvimento de aplicativos móveis e soluções web modernas e responsivas.<br>
