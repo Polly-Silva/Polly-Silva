@@ -30,9 +30,9 @@
 ### 📊 **Minhas Estatísticas no GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyaneRodrigues&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&layout=compact&theme=radical" alt="Linguagens mais usadas">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PollyaneRodrigues&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
 </div>
 
 ---
@@ -40,10 +40,10 @@
 ### 🌐 **Conecte-se Comigo**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pollyrfs/" target="_blank">
+  <a href="https://br.linkedin.com/in/pollyrfs" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/PollyaneRodrigues" target="_blank">
+  <a href="https://github.com/Polly-Silva" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:pollyanerodriguesfernandes@gmail.com" target="_blank">
