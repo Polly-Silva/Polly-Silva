@@ -1,10 +1,10 @@
-## 💖 Olá, sejam muito bem-vindos(as) ao meu Git 👋!
+## 🌟 Bem-vindo(a) ao meu perfil no GitHub
 
 <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="600px" align="center">
 
-💻 **Em transição da área de Analista de Sistemas para Desenvolvimento de Software** | Foco em **React**, **Angular**, e tecnologias modernas de desenvolvimento web e aplicativos.  
-✨ Tenho uma paixão genuína por **tecnologia** e me divirto aprendendo a desenvolver aplicativos que impactem positivamente a rotina das pessoas, tornando-a mais simples, produtiva e eficiente.  
-📚 Estou constantemente me especializando para alcançar o objetivo de me tornar uma desenvolvedora de destaque, com ênfase no **desenvolvimento de aplicativos móveis**, que considero mais desafiador e recompensador.
+💻 Atualmente em transição da área de Analista de Sistemas para Desenvolvimento de Software, com foco em **React**, **Angular**, e tecnologias modernas para desenvolvimento web e aplicativos móveis.  
+🎯 Sou apaixonada por tecnologia e por criar soluções inovadoras que simplifiquem e otimizem a rotina das pessoas, tornando-a mais prática e eficiente.  
+📘 Estou sempre em busca de aprimorar minhas habilidades e conhecimentos, com o objetivo de me destacar no desenvolvimento de aplicativos móveis, uma área que considero desafiadora e recompensadora.
 
 ---
 
@@ -21,15 +21,15 @@
 #### **1. [App de Controle Financeiro](https://app-paagaah.flutterflow.app/loginCadastro)**  
 🔧 **Tecnologias**: Flutter, Supabase, Dart  
 📊 Aplicativo desenvolvido como **TCC**, com foco em UX/UI, relatórios detalhados e visual incrível para gestão financeira.  
-🎯 Este projeto combina minha paixão por criar soluções práticas com minha habilidade em transformar dados em informações úteis.
+📌 Este projeto reflete minha dedicação em criar soluções práticas e transformar dados em informações valiosas para o usuário final.
 
 #### **2. Projeto de Previsão de Churn**  
 📊 Desenvolvimento de um modelo preditivo para churn, utilizando **Machine Learning** e metodologia **CRISP-DM**, liderando uma squad como Product Owner.  
-💡 Este projeto foi essencial para meu aprendizado em liderança técnica e colaboração em equipes ágeis.
+🚀 Este projeto foi fundamental para o meu desenvolvimento em liderança técnica e trabalho em equipes ágeis.
 
 #### **3. Landing Page com Angular**  
 🎨 Página responsiva utilizando **Angular** e **consumo de APIs REST**, com foco em design moderno e intuitivo.  
-🚀 Meu objetivo foi oferecer uma experiência fluida e profissional ao usuário final.
+🌐 Meu objetivo foi proporcionar uma experiência fluida, moderna e funcional para os usuários.
 
 ---
 
@@ -65,6 +65,6 @@
 
 <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
 
-<img src="https://www.reddit.com/r/DCAU/comments/15wwnjz/the_dcaus_version_of_wonder_woman_was_my_official/?tl=pt-br" width="600px" align="center">
+<img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" align="center">
 
-📢 **Estou entusiasmada para contribuir em projetos impactantes e construir soluções incríveis. Vamos trabalhar juntos?** 🚀💖
+📢 **Estou pronta para contribuir em projetos inovadores e criar soluções excepcionais. Vamos colaborar?** 🚀
