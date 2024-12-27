@@ -1,7 +1,7 @@
 ## 🌟 Olá, sejam muito bem-vindos(as) ao meu Git 👋!
 
 💻 **Em transição da área de Analista de Sistemas para Desenvolvimento de Software** | Foco em **React**, **Angular**, e tecnologias modernas de desenvolvimento web e aplicativos.  
-✨ Tenho uma paixão genuína por **tecnologia** e por criar soluções que impactem positivamente a rotina das pessoas, tornando-a mais simples, produtiva e eficiente.  
+✨ Tenho uma paixão genuína por **tecnologia** e me divirto aprendendo a desenvolver aplicativos que impactem positivamente a rotina das pessoas, tornando-a mais simples, produtiva e eficiente.  
 📚 Estou constantemente me especializando para alcançar o objetivo de me tornar uma desenvolvedora de destaque, com ênfase no **desenvolvimento de aplicativos móveis**, que considero mais desafiador e recompensador.
 
 ---
@@ -60,6 +60,8 @@
 ### ✨ **Efeitos Visuais**
 
 #### **Animações com GIFs**
+
+<img src=\"https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif\" width=\"600px\" align=\"center\">
 
 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600px" align="center">
 
