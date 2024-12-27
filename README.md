@@ -3,9 +3,6 @@
 💻 **Em transição da área de Analista de Sistemas para Desenvolvimento de Software** | Foco em **React**, **Angular**, e tecnologias modernas de desenvolvimento web e aplicativos.  
 ✨ Tenho uma paixão genuína por **tecnologia** e me divirto aprendendo a desenvolver aplicativos que impactem positivamente a rotina das pessoas, tornando-a mais simples, produtiva e eficiente.  
 📚 Estou constantemente me especializando para alcançar o objetivo de me tornar uma desenvolvedora de destaque, com ênfase no **desenvolvimento de aplicativos móveis**, que considero mais desafiador e recompensador.
-
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
-
 ---
 
 ### 🛠 **Habilidades Técnicas**
@@ -66,20 +63,5 @@
 <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
 
 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600px" align="center">
-
-#### **Incorporar animações SVG (Exemplo de Skyline)**
-```html
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#gradient)" font-size="30">
-    Polly Silva - Apaixonada por Desenvolvimento de Apps
-  </text>
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffb3ba;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#ffdfba;stop-opacity:1"/>
-    </linearGradient>
-  </defs>
-</svg>
-```
 
 📢 **Estou entusiasmada para contribuir em projetos impactantes e construir soluções incríveis. Vamos trabalhar juntos?** 🚀💖
