@@ -1,8 +1,11 @@
 ## 💖 Olá, sejam muito bem-vindos(as) ao meu Git 👋!
 
-💻 Em transição da área de Analista de Sistemas para Desenvolvimento de Software** | Foco em **React**, **Angular**, e tecnologias modernas de desenvolvimento web e aplicativos.  
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
+
+💻 **Em transição da área de Analista de Sistemas para Desenvolvimento de Software** | Foco em **React**, **Angular**, e tecnologias modernas de desenvolvimento web e aplicativos.  
 ✨ Tenho uma paixão genuína por **tecnologia** e me divirto aprendendo a desenvolver aplicativos que impactem positivamente a rotina das pessoas, tornando-a mais simples, produtiva e eficiente.  
 📚 Estou constantemente me especializando para alcançar o objetivo de me tornar uma desenvolvedora de destaque, com ênfase no **desenvolvimento de aplicativos móveis**, que considero mais desafiador e recompensador.
+
 ---
 
 ### 🛠 **Habilidades Técnicas**
@@ -60,8 +63,8 @@
 
 #### **Animações com GIFs**
 
-<img src="[https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fpt%2Fillustrations%2Fai-gerado-mulher-programador-8775232%2F&psig=AOvVaw15EdB1zVCokmxT4JE1vrmO&ust=1735426130288000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC-mqaDyYoDFQAAAAAdAAAAABAh)">
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600px" align="center">
 
-<img src="[https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FDCAU%2Fcomments%2F15wwnjz%2Fthe_dcaus_version_of_wonder_woman_was_my_official%2F%3Ftl%3Dpt-br&psig=AOvVaw3IgBV0CT_4XsmebId7xUph&ust=1735427774967000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjK3bqJyYoDFQAAAAAdAAAAABAR)f" width="600px" align="center">
+<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600px" align="center">
 
 📢 **Estou entusiasmada para contribuir em projetos impactantes e construir soluções incríveis. Vamos trabalhar juntos?** 🚀💖
