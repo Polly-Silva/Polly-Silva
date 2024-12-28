@@ -14,14 +14,14 @@
   </a>
   <br><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=Sejam+muito+bem-vindos(as)!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=Bem Vindo(a) eu sou a Polly! 🌸!" alt="Typing SVG"/>
   </a>
 </div>
 
 <p align="left"> 
-  🎉 Olá, sejam muito bem-vindos(as)! Sou Polly Silva, uma profissional apaixonada pelo universo tecnológico, em transição da área de Analista de Sistemas para Desenvolvimento de Software. Minha dedicação está voltada para o <strong>React</strong>, <strong>Angular</strong>, e o desenvolvimento de soluções web modernas e aplicativos móveis inovadores. 💻
+  🎉 Bem-vindo(a), eu sou Polly Silva! Estou em transição da área de Analista de Sistemas para o empolgante universo do Desenvolvimento de Software. Apaixonada por tecnologia, concentro-me no <strong>React</strong>, <strong>Angular</strong>, e na criação de aplicativos móveis e soluções web eficientes. 💻
 <br>
-✨ Dedico-me continuamente ao aprendizado e à execução de projetos que impactam positivamente a vida das pessoas, transformando ideias complexas em soluções práticas e eficientes. 🚀
+✨ Estou constantemente aprimorando minhas habilidades e desenvolvendo projetos inovadores que simplificam processos e geram impacto real. 🚀
 </p>
 
 <p align="left">
