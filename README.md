@@ -14,7 +14,7 @@
   </a>
   <br><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=Sejam muito bem-vindos(as)! 💖" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=🌟 Sejam muito Bem-vindos(as)! 💖" alt="Typing SVG"/>
   </a>
 </div>
 
