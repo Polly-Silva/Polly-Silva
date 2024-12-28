@@ -19,7 +19,7 @@
 </div>
 
 <p align="left"> 
-  🎉 Bem-vindo(a), eu sou Polly Silva! Estou em transição da área de Analista de Sistemas para o empolgante universo do Desenvolvimento de Software. Apaixonada por tecnologia, concentro-me no <strong>React</strong>, <strong>Angular</strong>, e na criação de aplicativos móveis e soluções web eficientes. 💻
+  🎉 sou Polly! Estou em transição da área de Analista de Sistemas para o empolgante universo do Desenvolvimento de Software. Apaixonada por tecnologia, concentro-me no <strong>React</strong>, <strong>Angular</strong>, e na criação de aplicativos móveis e soluções web eficientes. 💻
 <br>
 ✨ Estou constantemente aprimorando minhas habilidades e desenvolvendo projetos inovadores que simplificam processos e geram impacto real. 🚀
 </p>
