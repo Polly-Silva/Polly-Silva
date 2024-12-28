@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF de saudação temática" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/J2awQjH8jI9wIx7UmM/giphy.gif" alt="GIF de tema do GitHub" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   🎉 Olá, sejam muito bem-vindos(as)! Sou Polly Silva, uma profissional apaixonada pelo universo tecnológico, em transição da área de Analista de Sistemas para Desenvolvimento de Software. Minha dedicação está voltada para o <strong>React</strong>, <strong>Angular</strong>, e o desenvolvimento de soluções web modernas e aplicativos móveis inovadores. 💻
@@ -68,7 +68,7 @@
 
 #### **Animações com GIFs**
 
-<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="600px" align="center">
+
 
 <div align="center">
   <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
