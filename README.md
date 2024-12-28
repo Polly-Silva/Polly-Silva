@@ -1,4 +1,22 @@
-<img src="[https://media.giphy.com/media/3o7abkhOpu0NwenH3O/giphy.gif](https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)" alt="GIF tecnológico e feminino" min-width="400px" max-width="400px" width="400px" align="right">
+<div id="header" align="center" style="background-color:#000000">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
+</div>
+
+<div id="badges" align="center" style="background-color:#000000">
+  <a href="mailto:pollyanerodriguesfernandes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://br.linkedin.com/in/pollyrfs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <br><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=Sejam+muito+bem-vindos(as)!" alt="Typing SVG"/>
+  </a>
+</div>
 
 <p align="left"> 
   🎉 Olá, sejam muito bem-vindos(as)! Sou Polly Silva, uma profissional apaixonada pelo universo tecnológico, em transição da área de Analista de Sistemas para Desenvolvimento de Software. Minha dedicação está voltada para o <strong>React</strong>, <strong>Angular</strong>, e o desenvolvimento de soluções web modernas e aplicativos móveis inovadores. 💻
@@ -63,12 +81,6 @@
 </div>
 
 ---
-
-### ✨ **Efeitos Visuais**
-
-#### **Animações com GIFs**
-
-
 
 <div align="center">
   <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
