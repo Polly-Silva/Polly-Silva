@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="GIF de saudação" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/3o7abkhOpu0NwenH3O/giphy.gif" alt="GIF tecnológico e feminino" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   🎉 Olá, sejam muito bem-vindos(as)! Sou Polly Silva, uma profissional apaixonada pelo universo tecnológico, em transição da área de Analista de Sistemas para Desenvolvimento de Software. Minha dedicação está voltada para o <strong>React</strong>, <strong>Angular</strong>, e o desenvolvimento de soluções web modernas e aplicativos móveis inovadores. 💻
