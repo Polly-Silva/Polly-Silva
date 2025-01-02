@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align:left;">
    <div id="header" style="background-color:#F4D0E7; text-align:center;">
       <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
    </div>
@@ -38,7 +38,7 @@
    </div>
 </div>
 
-<div align="center">
+<div style="text-align:left;">
   <a href="https://github.com/Polly-Silva">
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&layout=compact&langs_count=7&hide=prs&theme=light&text_color=DB7093&title_color=FFB6C1&hide_border=none&bg_color=FDEEF4&custom_title=Top%20Languages"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=light&show_icons=true&icon_color=DB7093&text_color=DB7093&title_color=FFB6C1&hide_border=none&bg_color=FDEEF4&custom_title=GitHub%20Stats"/>
