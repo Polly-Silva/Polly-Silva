@@ -1,7 +1,22 @@
-<div style="text-align:center; background-color:#1E1E2F; color:#FFFFFF; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-   <div id="header" style="background-color:#1E1E2F; text-align:center; padding:20px;">
-      <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
-   </div>
+<div id="header" align="center" style="background-color:#000000">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
+</div>
+
+<div id="badges" align="center" style="background-color:#000000">
+  <a href="mailto:pollyanerodriguesfernandes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://br.linkedin.com/in/pollyrfs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <br><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=🌟+Bem-vindos(as)!+🚀💼" alt="Typing SVG"/>
+  </a>
+</div>
 
    <div id="badges" style="background-color:#1E1E2F; text-align:center;">
       <a href="mailto:pollyanerodriguesfernandes@gmail.com" target="_blank">
