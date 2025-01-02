@@ -19,7 +19,7 @@
       </a>
    </div>
 
-   <div style="text-align:left; padding: 0 15%; color:#DB7093;">
+   <div style="text-align:left; color:#DB7093;">
       🌷 Olá, sou a <strong>Pollyane Rodrigues</strong>, apaixonada por tecnologia e soluções criativas. Estou em uma transição empolgante de Analista de Sistemas para o universo do Desenvolvimento de Software. 💻<br><br>
       🎯 Meu foco está em construir aplicativos móveis e soluções web utilizando tecnologias como <strong>React</strong>, <strong>Angular</strong>, e mais. Transformar ideias em realidade e impactar positivamente o mundo digital é minha missão! 🌟<br><br>
       🛠️ Tecnologias que amo trabalhar:
