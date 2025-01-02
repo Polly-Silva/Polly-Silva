@@ -34,8 +34,7 @@
          <li><strong>Modelo Preditivo de Churn:</strong> Liderança na criação de um modelo de Machine Learning, utilizando CRISP-DM, para prever churn em negócios.</li>
          <li><strong>Landing Page Angular:</strong> Design moderno e funcional com APIs REST, otimizando a experiência do usuário final.</li>
       </ul><br>
-      📢 <strong>Vamos construir o futuro juntas?</strong><br><br>Entre em contato comigo para transformar ideias incríveis em realidade! 🚀
-   </div>
+      </div>
 </div>
 
 <div style="text-align:left;">
