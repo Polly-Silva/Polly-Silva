@@ -15,22 +15,26 @@
       </a>
       <br><br>
       <a href="https://git.io/typing-svg">
-         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&multiline=true&width=435&lines=🌟+Bem-vindos(as)!+🚀💼" alt="Typing SVG"/>
+         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&multiline=true&width=435&lines=🌟+Seja+Bem-vindo(a)!+🚀💼" alt="Typing SVG"/>
       </a>
    </div>
 
    <p align="center" style="color:#8A2BE2">
-      🎉 Olá, sou a Pollyane Rodrigues! Estou em uma empolgante transição de carreira da área de Análise de Sistemas para Desenvolvimento de Software. Apaixonada por tecnologia, concentro-me em React, Angular e no desenvolvimento de aplicativos móveis e soluções web eficientes. 💻<br><br>
-      ✨ Adoro criar projetos inovadores que simplificam processos e geram impacto real. Minha missão é transformar ideias em realidade e colaborar em projetos de excelência. 🚀<br><br>
-      🦄 Linguagens que domino: Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#<br>
-      🛠️ Ferramentas favoritas: Node.js, MongoDB, Git, Azure DevOps, Redis<br><br>
-      📊 <strong>Projetos em Destaque:</strong>
+      👋 Oi, sou a <strong>Pollyane Rodrigues</strong>, apaixonada por tecnologia e soluções criativas. Estou em uma transição empolgante de Analista de Sistemas para o universo do Desenvolvimento de Software. 💻<br><br>
+      🎯 Meu foco está em construir aplicativos móveis e soluções web utilizando tecnologias como <strong>React</strong>, <strong>Angular</strong>, e mais. Transformar ideias em realidade e impactar positivamente o mundo digital é minha missão! 🌟<br><br>
+      🛠️ Tecnologias que amo trabalhar:
       <ul>
-         <li><strong>App de Controle Financeiro:</strong> Utilizando Flutter, Supabase e Dart, criei um aplicativo focado em UX/UI e gestão financeira. Este projeto, desenvolvido como TCC, destaca minha habilidade em transformar dados em soluções práticas para os usuários.</li>
-         <li><strong>Projeto de Previsão de Churn:</strong> Desenvolvi um modelo preditivo utilizando Machine Learning e a metodologia CRISP-DM, liderando uma equipe como Product Owner. Esse projeto foi fundamental para o meu crescimento em liderança técnica.</li>
-         <li><strong>Landing Page com Angular:</strong> Página responsiva com APIs REST, design moderno e funcionalidade intuitiva, focada na melhor experiência para os usuários.</li>
+         <li><strong>Linguagens:</strong> Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#, SQL</li>
+         <li><strong>Ferramentas:</strong> Node.js, MongoDB, Azure DevOps, Redis, Git</li>
+         <li><strong>Data Science:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch</li>
       </ul><br>
-      📢 Vamos inovar juntas(os)? Entre em contato comigo! 🚀
+      🚀 <strong>Projetos que me definem:</strong>
+      <ul>
+         <li><strong>App de Controle Financeiro:</strong> Um aplicativo focado em UX/UI, criado com Flutter e Supabase, para gerenciar suas finanças de forma prática.</li>
+         <li><strong>Modelo Preditivo de Churn:</strong> Liderança na criação de um modelo de Machine Learning, utilizando CRISP-DM, para prever churn em negócios.</li>
+         <li><strong>Landing Page Angular:</strong> Design moderno e funcional com APIs REST, otimizando a experiência do usuário final.</li>
+      </ul><br>
+      📢 <strong>Vamos construir o futuro juntos?</strong> Entre em contato comigo para transformar ideias incríveis em realidade! 🚀
    </p>
 </div>
 
@@ -48,7 +52,7 @@
 </div>
 
 <div align="center"><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git" /><br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git,sql" /><br><br>
 </div><br>
 
 <div align="center">
