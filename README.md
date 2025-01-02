@@ -1,9 +1,9 @@
 <div align="center">
-   <div id="header" align="center" style="background-color:#F4D0E7">
+   <div id="header" style="background-color:#F4D0E7; text-align:center;">
       <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
    </div>
 
-   <div id="badges" align="center" style="background-color:#F4D0E7">
+   <div id="badges" style="background-color:#F4D0E7; text-align:center;">
       <a href="mailto:pollyanerodriguesfernandes@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
       </a>
@@ -19,7 +19,7 @@
       </a>
    </div>
 
-   <p align="center" style="color:#DB7093">
+   <div style="text-align:left; padding: 0 15%; color:#DB7093;">
       🌷 Olá, sou a <strong>Pollyane Rodrigues</strong>, apaixonada por tecnologia e soluções criativas. Estou em uma transição empolgante de Analista de Sistemas para o universo do Desenvolvimento de Software. 💻<br><br>
       🎯 Meu foco está em construir aplicativos móveis e soluções web utilizando tecnologias como <strong>React</strong>, <strong>Angular</strong>, e mais. Transformar ideias em realidade e impactar positivamente o mundo digital é minha missão! 🌟<br><br>
       🛠️ Tecnologias que amo trabalhar:
@@ -35,7 +35,7 @@
          <li><strong>Landing Page Angular:</strong> Design moderno e funcional com APIs REST, otimizando a experiência do usuário final.</li>
       </ul><br>
       📢 <strong>Vamos construir o futuro juntas?</strong> Entre em contato comigo para transformar ideias incríveis em realidade! 🚀
-   </p>
+   </div>
 </div>
 
 <div align="center">
@@ -51,7 +51,7 @@
   <h2 style="color:#DB7093">🌷 Tecnologias</h2>
 </div>
 
-<div align="center"><br>
+<div align="center" style="text-align:center;"><br>
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git,sql" /><br><br>
 </div><br>
 
