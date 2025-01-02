@@ -18,21 +18,6 @@
   </a>
 </div>
 
-   <div id="badges" style="background-color:#1E1E2F; text-align:center;">
-      <a href="mailto:pollyanerodriguesfernandes@gmail.com" target="_blank">
-         <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-      </a>
-      <a href="https://br.linkedin.com/in/pollyrfs" target="_blank">
-         <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="#" title="WhatsApp">
-         <img src="https://img.shields.io/badge/-WhatsApp-4B0082?style=for-the-badge&labelColor=4B0082&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-      </a>
-      <br><br>
-      <a href="https://git.io/typing-svg">
-         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&width=600&lines=🌟+Sejam+Bem-vindos(as)!+✨+🚀" alt="Typing SVG"/>
-      </a>
-   </div>
 
    <div style="text-align:left; padding:0 20px; color:#FFFFFF;">
       🌷 Olá, sou a <strong>Pollyane Silva</strong>, apaixonada por tecnologia e soluções criativas. Estou em uma transição empolgante de Analista de Sistemas para o universo do Desenvolvimento de Software. 💻<br><br>
