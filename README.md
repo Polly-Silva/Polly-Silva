@@ -41,7 +41,7 @@
   </a>
 </div>
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=8A2BE2&color_bg=FFDB58)
+![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=purple-yellow)
 
 <div align="center">
   <h2 style="color:#8A2BE2">✅ Tecnologias</h2>
@@ -50,3 +50,9 @@
 <div align="center"><br>
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git" /><br><br>
 </div><br>
+
+<div align="center">
+  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
+</div>
+
+<p align="center" style="color:#8A2BE2">📢 <strong>Minha missão é colaborar em projetos transformadores e criar soluções de excelência. Vamos inovar juntas(os)?</strong> 🚀</p>
