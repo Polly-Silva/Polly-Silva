@@ -1,4 +1,4 @@
-<div style="text-align:left;">
+<div style="text-align:center;">
    <div id="header" style="background-color:#F4D0E7; text-align:center;">
       <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
    </div>
@@ -20,7 +20,7 @@
    </div>
 
    <div style="text-align:left; color:#DB7093;">
-      🌷 Olá, sou a <strong>Pollyane Rodrigues</strong>, apaixonada por tecnologia e soluções criativas. Estou em uma transição empolgante de Analista de Sistemas para o universo do Desenvolvimento de Software. 💻<br><br>
+      🌷 Olá, sou a <strong>Pollyane Silva</strong>, apaixonada por tecnologia e soluções criativas. Estou em uma transição empolgante de Analista de Sistemas para o universo do Desenvolvimento de Software. 💻<br><br>
       🎯 Meu foco está em construir aplicativos móveis e soluções web utilizando tecnologias como <strong>React</strong>, <strong>Angular</strong>, e mais. Transformar ideias em realidade e impactar positivamente o mundo digital é minha missão! 🌟<br><br>
       🛠️ Tecnologias que amo trabalhar:
       <ul>
@@ -57,6 +57,7 @@
 
 <div align="center">
   <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
+  <br><br>
 </div>
 
 <p align="center" style="color:#DB7093">📢 <strong>Minha missão é colaborar em projetos transformadores e criar soluções de excelência. Vamos inovar juntas(os)?</strong> 🌸</p>
