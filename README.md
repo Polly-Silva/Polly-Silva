@@ -41,7 +41,7 @@
   </a>
 </div>
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=8A2BE2&color_bg=FFDB58)
 
 <div align="center">
   <h2 style="color:#8A2BE2">✅ Tecnologias</h2>
