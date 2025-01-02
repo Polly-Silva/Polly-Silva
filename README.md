@@ -3,6 +3,7 @@
       <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
    </div>
 
+   <div style="text-align:center;">
    <div id="badges" style="background-color:#F4D0E7; text-align:center;">
       <a href="mailto:pollyanerodriguesfernandes@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -18,6 +19,25 @@
          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=DB7093&multiline=true&width=435&lines=🌸+Sejam+Bem-vindos(as)!+✨💼" alt="Typing SVG"/>
       </a>
    </div>
+
+   <div style="text-align:left; color:#DB7093;">
+      🌷 Olá, sou a <strong>Pollyane Silva</strong>, apaixonada por tecnologia e soluções criativas. Estou em uma transição empolgante de Analista de Sistemas para o universo do Desenvolvimento de Software. 💻<br><br>
+      🎯 Meu foco está em construir aplicativos móveis e soluções web utilizando tecnologias como <strong>React</strong>, <strong>Angular</strong>, e mais. Transformar ideias em realidade e impactar positivamente o mundo digital é minha missão! 🌟<br><br>
+      🛠️ Tecnologias que amo trabalhar:
+      <ul>
+         <li><strong>Linguagens:</strong> Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#, SQL</li>
+         <li><strong>Ferramentas:</strong> Node.js, MongoDB, Azure DevOps, Redis, Git</li>
+         <li><strong>Data Science:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch</li>
+      </ul><br>
+      🌸 <strong>Projetos que me definem:</strong>
+      <ul>
+         <li><strong>App de Controle Financeiro:</strong> Um aplicativo focado em UX/UI, criado com Flutter e Supabase, para gerenciar suas finanças de forma prática.</li>
+         <li><strong>Modelo Preditivo de Churn:</strong> Liderança na criação de um modelo de Machine Learning, utilizando CRISP-DM, para prever churn em negócios.</li>
+         <li><strong>Landing Page Angular:</strong> Design moderno e funcional com APIs REST, otimizando a experiência do usuário final.</li>
+      </ul><br>
+      📢 <strong>Vamos construir o futuro juntas?</strong> Entre em contato comigo para transformar ideias incríveis em realidade! 🚀
+   </div>
+</div>
 
    <div style="text-align:left; color:#DB7093;">
       🌷 Olá, sou a <strong>Pollyane Silva</strong>, apaixonada por tecnologia e soluções criativas. Estou em uma transição empolgante de Analista de Sistemas para o universo do Desenvolvimento de Software. 💻<br><br>
