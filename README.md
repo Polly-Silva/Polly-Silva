@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
    <div id="header" align="center" style="background-color:#000000">
       <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
    </div>
@@ -71,3 +71,4 @@
   </ul><br>
   📢 Vamos inovar juntas(os)? Entre em contato comigo! 🚀
 </p>
+**
