@@ -14,11 +14,11 @@
   </a>
   <br><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7FF00&multiline=true&width=435&lines=🌟+Welcome!+🚀💼" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&multiline=true&width=435&lines=🌟+Welcome!+🚀💼" alt="Typing SVG"/>
   </a>
 </div>
 
-<div style="text-align:left; padding:0 20px; color:#FFFF00;">
+<div style="text-align:left; padding:0 20px; color:#FFFFFF;">
   🌷 Hi, I'm <strong>Pollyane Silva</strong>, passionate about technology. Transitioning into software development. 💻<br><br>
   🎯 Focused on mobile apps and web solutions with <strong>React</strong>, <strong>Angular</strong>, and more. 🌟<br><br>
   🛠️ Technologies: <strong>Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#, SQL</strong><br><br>
@@ -26,15 +26,15 @@
 
 <div style="text-align:left;">
   <a href="https://github.com/Polly-Silva">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&layout=compact&langs_count=7&hide=prs&theme=radical&text_color=FFFF00&title_color=FFD700&hide_border=none&bg_color=1E1E2F&custom_title=Top%20Languages"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=radical&show_icons=true&icon_color=FFFF00&text_color=FFFF00&title_color=FFD700&hide_border=none&bg_color=1E1E2F&custom_title=GitHub%20Stats"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&layout=compact&langs_count=7&hide=prs&theme=radical&text_color=FFFFFF&title_color=FFFFFF&hide_border=none&bg_color=000000&custom_title=Top%20Languages"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=radical&show_icons=true&icon_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&hide_border=none&bg_color=000000&custom_title=GitHub%20Stats"/>
   </a>
 </div>
 
-![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=yellow-white)
+![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=black-white)
 
 <div align="center">
-  <h3><b style="color:FFD700">🏆 GitHub Profile Trophy</b></h3>
+  <h3><b style="color:FFFFFF">🏆 GitHub Profile Trophy</b></h3>
 </div>
 
 <p align="center">
@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <h3><b style="color:FFD700">📍 Profile Visitor Count</b></h3>
+  <h3><b style="color:FFFFFF">📍 Profile Visitor Count</b></h3>
 </div>
 
 <p align="center">
@@ -54,10 +54,10 @@
 </p>
 
 <div align="center">
-  <h2 style="color:FFD700">🌷 Technologies</h2>
+  <h2 style="color:FFFFFF">🌷 Technologies</h2>
 </div>
 
-<div align="center" style="text-align:center; color:#FFFF00;">
+<div align="center" style="text-align:center; color:#FFFFFF;">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git,sql" /><br><br>
 </div>
 
@@ -66,4 +66,4 @@
   <br><br>
 </div>
 
-<p align="center" style="color:#FFFF00">📢 <strong>My mission is to collaborate on transformative projects and create excellent solutions. Shall we innovate together?</strong> 🌸</p>
+<p align="center" style="color:#FFFFFF">📢 <strong>My mission is to collaborate on transformative projects and create excellent solutions. Shall we innovate together?</strong> 🌸</p>
