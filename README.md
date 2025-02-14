@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Bem-vindo(a)!+Profissional+de+Tecnologia" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Bem-vindo(a)!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -57,6 +57,10 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,git,docker,azure,aws" width="350" alt="Technologies and Tools"/>
 </div>
 
+<div align="center" style="text-align:center; color:#FFFFFF;"><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git,sql" /><br><br>
+</div><br>
+
 ---
 
 ![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=black-white)
@@ -78,13 +82,7 @@
 </div>
 
 ---
-<div align="center">
-  <h2 style="color:#8A2BE2">🌷 Tecnologias</h2>
-</div>
 
-<div align="center" style="text-align:center; color:#FFFFFF;"><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git,sql" /><br><br>
-</div><br>
 
 <div align="center">
   <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
