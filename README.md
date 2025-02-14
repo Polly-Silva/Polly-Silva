@@ -73,3 +73,34 @@
 ---
 
 <p align="center" style="color:#FFFFFF">My mission is to collaborate on transformative projects and create excellent solutions. Let's innovate together? 🌸</p>
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Engenharia de Computação.
+- 💼 Trabalhando como Product Manager e Scrum Master na área de criptomoedas e governança de dados.
+- 🌱 Aprendendo mais sobre Inteligência Artificial e Cloud Computing.
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+
+**DevOps e Ferramentas**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-PollyaneSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/pollyrfs)](https://br.linkedin.com/in/pollyrfs)
+[![Gmail Badge](https://img.shields.io/badge/-pollyanerodriguesfernandes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pollyanerodriguesfernandes@gmail.com)](mailto:pollyanerodriguesfernandes@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Polly-Silva?label=follow&style=social)](https://github.com/Polly-Silva)
