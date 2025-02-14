@@ -54,8 +54,6 @@
 
 <div align="center">
   <h2 style="color:FFFFFF; font-size: 18px;">🌐 Technologies & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,git,docker,azure,aws" width="350" alt="Technologies and Tools"/>
-</div>
 
 <div align="center" style="text-align:center; color:#FFFFFF;"><br>
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git,sql" /><br><br>
