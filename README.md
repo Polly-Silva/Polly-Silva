@@ -24,10 +24,18 @@
   🛠️ Technologies: <strong>Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#, SQL</strong><br><br>
 </div>
 
+<div align="center">
+  <h3><b style="color:FFFFFF">📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Polly-Silva/count.svg" alt="Profile visitor count"/>
+</p>
+
 <div style="text-align:left;">
   <a href="https://github.com/Polly-Silva">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&layout=compact&langs_count=7&hide=prs&theme=radical&text_color=FFFFFF&title_color=FFFFFF&hide_border=none&bg_color=000000&custom_title=Top%20Languages"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=radical&show_icons=true&icon_color=FFFFFF&text_color=FFFFFF&title_color=FFFFFF&hide_border=none&bg_color=000000&custom_title=GitHub%20Stats"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&layout=compact&langs_count=7&hide=prs&theme=radical&text_color=FFFFFF&title_color=FFFFFF&hide_border=none&bg_color=000000&custom_title=Top%20Languages"/>
   </a>
 </div>
 
@@ -41,16 +49,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="profile trophies repository">
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=Polly-Silva&column=8&theme=darkhub&no-frame=true&no-bg=true" />
   </a>
-</p>
-
----
-
-<div align="center">
-  <h3><b style="color:FFFFFF">📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Polly-Silva/count.svg" alt="Profile visitor count"/>
 </p>
 
 <div align="center">
