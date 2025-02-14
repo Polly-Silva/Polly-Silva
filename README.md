@@ -78,6 +78,21 @@
 </div>
 
 ---
+<div align="center">
+  <h2 style="color:#8A2BE2">🌷 Tecnologias</h2>
+</div>
+
+<div align="center" style="text-align:center; color:#FFFFFF;"><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git,sql" /><br><br>
+</div><br>
+
+<div align="center">
+  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
+  <br><br>
+</div>
+
+<p align="center" style="color:#FF69B4">📢 <strong>Minha missão é colaborar em projetos transformadores e criar soluções de excelência. Vamos inovar juntas(os)?</strong> 🌸</p>
+
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/4a/16/71/4a1671e979e89761d36681b7c92b4be0.gif" width="400" alt="Wonder Woman GIF">
