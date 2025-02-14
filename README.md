@@ -19,18 +19,71 @@
 </div>
 
 <div style="text-align:left; padding:0 20px; color:#FFFFFF;">
-  <p><strong>Pollyane Silva</strong> | Migrating to Software Development</p>
-  <p>Currently transitioning into the software development field, eager to apply my background and skills to build innovative mobile and web applications.</p>
+  <p><strong>Pollyane Silva</strong> | Aspiring Software Developer</p>
+  <p>Currently transitioning into the software development field with a focus on building innovative mobile and web solutions. Passionate about leveraging technology to solve real-world problems.</p>
 </div>
 
-<div style="text-align:left;">
-  <a href="https://github.com/Polly-Silva">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&layout=compact&langs_count=7&hide=prs&theme=radical&text_color=FF69B4&title_color=8A2BE2&hide_border=none&bg_color=1E1E2F&custom_title=Top%20Languages"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=radical&show_icons=true&icon_color=FF69B4&text_color=FF69B4&title_color=8A2BE2&hide_border=none&bg_color=1E1E2F&custom_title=GitHub%20Stats"/>
+---
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Polly-Silva&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Polly-Silva&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
   </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=purple-pink)
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Polly-Silva/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+---
 
 <div align="center">
   <h2 style="color:#8A2BE2">🌷 Technologies</h2>
@@ -45,4 +98,4 @@
   <br><br>
 </div>
 
-<p align="center" style="color:#FF69B4">📢 <strong>Excited to contribute to transformative software projects. Let's innovate together!</strong> 🌸</p>
+<p align="center" style="color:#FF69B4">📢 <strong>Excited to contribute to impactful projects in software development. Let's innovate together!</strong> 🌸</p>
