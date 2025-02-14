@@ -14,27 +14,25 @@
   </a>
   <br><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=🌟+Bem-vindos(as)!+🚀💼" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=🌟+Welcome!+🚀💼" alt="Typing SVG"/>
   </a>
 </div>
 
-
-   <div style="text-align:left; padding:0 20px; color:#FFFFFF;">
-      🌷 Olá, sou a <strong>Pollyane Silva</strong>, apaixonada por tecnologia e soluções criativas. Estou em uma transição empolgante de Analista de Sistemas para o universo do Desenvolvimento de Software. 💻<br><br>
-      🎯 Meu foco está em construir aplicativos móveis e soluções web utilizando tecnologias como <strong>React</strong>, <strong>Angular</strong>, e mais. Transformar ideias em realidade e impactar positivamente o mundo digital é minha missão! 🌟<br><br>
-      🛠️ Tecnologias que amo trabalhar:
-      <ul>
-         <li><strong>Linguagens:</strong> Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#, SQL</li>
-         <li><strong>Ferramentas:</strong> Node.js, MongoDB, Azure DevOps, Redis, Git</li>
-         <li><strong>Data Science:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch</li>
-      </ul><br>
-      🌸 <strong>Projetos que me definem:</strong>
-      <ul>
-         <li><strong>App de Controle Financeiro:</strong> Um aplicativo focado em UX/UI, criado com Flutter e Supabase, para gerenciar suas finanças de forma prática.</li>
-         <li><strong>Modelo Preditivo de Churn:</strong> Liderança na criação de um modelo de Machine Learning, utilizando CRISP-DM, para prever churn em negócios.</li>
-         <li><strong>Landing Page Angular:</strong> Design moderno e funcional com APIs REST, otimizando a experiência do usuário final.</li>
-      </ul><br>
-      </div>
+<div style="text-align:left; padding:0 20px; color:#FFFFFF;">
+  <p><strong>Pollyane Silva</strong> | Product Manager & Software Developer</p>
+  <p>Focused on building mobile applications and web solutions with technologies such as <strong>React</strong>, <strong>Angular</strong>, and more. Passionate about transforming ideas into impactful digital solutions.</p>
+  <p><strong>Technologies:</strong></p>
+  <ul>
+    <li><strong>Languages:</strong> Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#, SQL</li>
+    <li><strong>Tools:</strong> Node.js, MongoDB, Azure DevOps, Redis, Git</li>
+    <li><strong>Data Science:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch</li>
+  </ul>
+  <p><strong>Key Projects:</strong></p>
+  <ul>
+    <li><strong>Financial Control App:</strong> UX/UI-focused app built with Flutter and Supabase for managing finances.</li>
+    <li><strong>Churn Prediction Model:</strong> Led the creation of a machine learning model using CRISP-DM to predict churn in businesses.</li>
+    <li><strong>Landing Page with Angular:</strong> Modern, functional design with REST APIs to optimize user experience.</li>
+  </ul>
 </div>
 
 <div style="text-align:left;">
@@ -47,7 +45,7 @@
 ![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=purple-pink)
 
 <div align="center">
-  <h2 style="color:#8A2BE2">🌷 Tecnologias</h2>
+  <h2 style="color:#8A2BE2">🌷 Technologies</h2>
 </div>
 
 <div align="center" style="text-align:center; color:#FFFFFF;"><br>
@@ -55,8 +53,8 @@
 </div><br>
 
 <div align="center">
-  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
+  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centered animation">
   <br><br>
 </div>
 
-<p align="center" style="color:#FF69B4">📢 <strong>Minha missão é colaborar em projetos transformadores e criar soluções de excelência. Vamos inovar juntas(os)?</strong> 🌸</p>
+<p align="center" style="color:#FF69B4">📢 <strong>My mission is to collaborate on transformative projects and create excellent solutions. Let's innovate together!</strong> 🌸</p>
