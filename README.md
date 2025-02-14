@@ -19,14 +19,8 @@
 </div>
 
 <div style="text-align:left; padding:0 20px; color:#FFFFFF;">
-  <p><strong>Pollyane Silva</strong> | Product Manager & Software Developer</p>
-  <p>Focused on building mobile applications and web solutions with technologies such as <strong>React</strong>, <strong>Angular</strong>, and more. Passionate about transforming ideas into impactful digital solutions.</p>
-  <p><strong>Technologies:</strong></p>
-  <ul>
-    <li><strong>Languages:</strong> Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#, SQL</li>
-    <li><strong>Tools:</strong> Node.js, MongoDB, Azure DevOps, Redis, Git</li>
-    <li><strong>Data Science:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch</li>
-  </ul>
+  <p><strong>Pollyane Silva</strong> | Migrating to Software Development</p>
+  <p>Currently transitioning into the software development field, eager to apply my background and skills to build innovative mobile and web applications.</p>
 </div>
 
 <div style="text-align:left;">
@@ -51,4 +45,4 @@
   <br><br>
 </div>
 
-<p align="center" style="color:#FF69B4">📢 <strong>My mission is to collaborate on transformative projects and create excellent solutions. Let's innovate together!</strong> 🌸</p>
+<p align="center" style="color:#FF69B4">📢 <strong>Excited to contribute to transformative software projects. Let's innovate together!</strong> 🌸</p>
