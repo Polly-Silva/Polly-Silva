@@ -27,12 +27,6 @@
     <li><strong>Tools:</strong> Node.js, MongoDB, Azure DevOps, Redis, Git</li>
     <li><strong>Data Science:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch</li>
   </ul>
-  <p><strong>Key Projects:</strong></p>
-  <ul>
-    <li><strong>Financial Control App:</strong> UX/UI-focused app built with Flutter and Supabase for managing finances.</li>
-    <li><strong>Churn Prediction Model:</strong> Led the creation of a machine learning model using CRISP-DM to predict churn in businesses.</li>
-    <li><strong>Landing Page with Angular:</strong> Modern, functional design with REST APIs to optimize user experience.</li>
-  </ul>
 </div>
 
 <div style="text-align:left;">
