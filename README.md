@@ -35,26 +35,62 @@
   </ul><br>
 </div>
 
-<div style="text-align:left;">
-  <a href="https://github.com/Polly-Silva">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&layout=compact&langs_count=7&hide=prs&theme=radical&text_color=FF69B4&title_color=8A2BE2&hide_border=none&bg_color=1E1E2F&custom_title=Top%20Languages"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=radical&show_icons=true&icon_color=FF69B4&text_color=FF69B4&title_color=8A2BE2&hide_border=none&bg_color=1E1E2F&custom_title=GitHub%20Stats"/>
+<div align="center">
+  <h3 style="color:#8A2BE2">💜 Olá, meu nome é Pollyane Silva!</h3>
+  <p>Sou apaixonada por tecnologia e desenvolvimento, sempre em busca de aprender novas linguagens e ferramentas. Atualmente, estou trabalhando em projetos de <strong>Flutter</strong>, <strong>React</strong>, <strong>Angular</strong>, e outras soluções web e mobile. Se você tem alguma dúvida ou quer trocar uma ideia sobre tecnologia, me mande uma mensagem! 💬</p>
+</div>
+
+---
+
+### 🚀 Minhas Skills
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats"/>
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+    </td>
+    <td>
+      <br />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Polly-Silva&theme=dark&hide_border=false" alt="Github Stats"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Polly-Silva&column=8&theme=darkhub&no-frame=true&no-bg=true" />
   </a>
-</div>
+</p>
 
-![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=purple-pink)
-
-<div align="center">
-  <h2 style="color:#8A2BE2">🌷 Tecnologias</h2>
-</div>
-
-<div align="center" style="text-align:center; color:#FFFFFF;"><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,angular,js,html,css,csharp,typescript,aws,vscode,figma,nodejs,mongodb,azure,redis,git,sql" /><br><br>
-</div><br>
+---
 
 <div align="center">
-  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
-  <br><br>
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="center" style="color:#FF69B4">📢 <strong>Minha missão é colaborar em projetos transformadores e criar soluções de excelência. Vamos inovar juntas(os)?</strong> 🌸</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Polly-Silva/count.svg" alt="Número de visitantes no perfil"/>
+</p>
