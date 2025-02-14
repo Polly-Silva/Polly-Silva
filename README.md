@@ -14,20 +14,14 @@
   </a>
   <br><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7FF00&multiline=true&width=435&lines=🌟+Bem-vindos(as)!+🚀💼" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7FF00&multiline=true&width=435&lines=🌟+Welcome!+🚀💼" alt="Typing SVG"/>
   </a>
 </div>
 
 <div style="text-align:left; padding:0 20px; color:#FFFF00;">
-  🌷 Olá, sou a <strong>Pollyane Silva</strong>, apaixonada por tecnologia. Transição para o desenvolvimento de software. 💻<br><br>
-  🎯 Foco em apps móveis e soluções web com <strong>React</strong>, <strong>Angular</strong>, entre outras. 🌟<br><br>
-  🛠️ Tecnologias: <strong>Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#, SQL</strong><br><br>
-  🌸 Projetos: 
-  <ul>
-     <li><strong>App Financeiro:</strong> Flutter e Supabase para finanças.</li>
-     <li><strong>Modelo Preditivo:</strong> Machine Learning com CRISP-DM.</li>
-     <li><strong>Landing Page:</strong> Angular, APIs REST.</li>
-  </ul><br>
+  🌷 Hi, I'm <strong>Pollyane Silva</strong>, passionate about technology. Transitioning into software development. 💻<br><br>
+  🎯 Focused on mobile apps and web solutions with <strong>React</strong>, <strong>Angular</strong>, and more. 🌟<br><br>
+  🛠️ Technologies: <strong>Flutter, Dart, Python, React, Angular, JavaScript, HTML, CSS, C#, SQL</strong><br><br>
 </div>
 
 <div style="text-align:left;">
@@ -40,15 +34,27 @@
 ![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=yellow-white)
 
 <div align="center">
-  <h3><b style="color:FFD700">📍 Contagem de Visitas</b></h3>
+  <h3><b style="color:FFD700">🏆 GitHub Profile Trophy</b></h3>
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/iuricode/count.svg" alt="Número de visitantes no perfil"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="profile trophies repository">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Polly-Silva&column=8&theme=darkhub&no-frame=true&no-bg=true" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b style="color:FFD700">📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Polly-Silva/count.svg" alt="Profile visitor count"/>
 </p>
 
 <div align="center">
-  <h2 style="color:FFD700">🌷 Tecnologias</h2>
+  <h2 style="color:FFD700">🌷 Technologies</h2>
 </div>
 
 <div align="center" style="text-align:center; color:#FFFF00;">
@@ -56,8 +62,8 @@
 </div>
 
 <div align="center">
-  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
+  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="Centered animated GIF">
   <br><br>
 </div>
 
-<p align="center" style="color:#FFFF00">📢 <strong>Minha missão é colaborar em projetos transformadores e criar soluções de excelência. Vamos inovar juntas(os)?</strong> 🌸</p>
+<p align="center" style="color:#FFFF00">📢 <strong>My mission is to collaborate on transformative projects and create excellent solutions. Shall we innovate together?</strong> 🌸</p>
