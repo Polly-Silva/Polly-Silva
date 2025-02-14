@@ -87,9 +87,6 @@
   <br><br>
 </div>
 
-<p align="center" style="color:#FF69B4">📢 <strong>Minha missão é colaborar em projetos transformadores e criar soluções de excelência. Vamos inovar juntas(os)?</strong> 🌸</p>
-
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/4a/16/71/4a1671e979e89761d36681b7c92b4be0.gif" width="400" alt="Wonder Woman GIF">
   <p style="color:#FFFFFF; font-size: 18px; font-weight: bold;">"A força não vem da capacidade física, mas da vontade indomável." 💪🚀</p>
