@@ -1,8 +1,8 @@
-<div id="header" align="center" style="background-color:#000000">
+<div id="header" align="center" style="background-color:#000000; padding: 10px;">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height="200"/>
 </div>
 
-<div id="badges" align="center" style="background-color:#000000">
+<div id="badges" align="center" style="background-color:#000000; padding: 10px;">
   <a href="mailto:pollyfernandes3.0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
@@ -15,17 +15,15 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Sejam bem-vindos(as)!" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Sejam+bem-vindos(as)!" alt="Typing SVG"/>
 </div>
 
----
+<hr>
 
 ## Sobre mim
 
 - 🚀 Profissional de Tecnologia com experiência em Agilidade, Gestão de Projetos e Desenvolvimento de Software.
-- 🎓 Graduanda em Engenharia de Computação.
+- 🎓 Bacharel em Engenharia da Computação.
 - 💼 Atuando como Scrum Master e Product Manager na área de Criptomoedas e Governança de Dados.
 - 📊 Especialista em Data Science e Business Intelligence, com experiência em Machine Learning e análise preditiva.
 - 🌱 Aprimorando conhecimentos em Inteligência Artificial e Computação em Nuvem.
@@ -34,16 +32,14 @@
 
 ## Minhas Skills
 
-**Aplicações e Dados**
-
+### **Aplicações e Dados**
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
-**DevOps e Ferramentas**
-
+### **DevOps e Ferramentas**
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -57,58 +53,42 @@
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats"/>
     </td>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
     </td>
     <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Polly-Silva&theme=dark&hide_border=false" alt="Github Stats"/>
     </td>
   </tr>
 </table>
-
 
 ![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=black-white)
 
 ---
 
 <div align="center">
-  <h3><b style="color:FFFFFF">🏆 GitHub Profile Trophy</b></h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="profile trophies repository">
-    <img width="750" src="https://github-profile-trophy.vercel.app/?username=Polly-Silva&column=7&theme=darkhub&no-frame=true&no-bg=true" />
+  <h3><b style="color:white;">🏆 GitHub Profile Trophy</b></h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="750" src="https://github-profile-trophy.vercel.app/?username=Polly-Silva&column=7&theme=darkhub&no-frame=true&no-bg=true"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3><b style="color:FFFFFF">📍 Profile Visitor Count</b></h3>
+  <h3><b style="color:white;">📍 Profile Visitor Count</b></h3>
   <img src="https://profile-counter.glitch.me/Polly-Silva/count.svg" alt="Profile visitor count"/>
 </div>
 
 ---
 
-
 <div align="center">
-  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600px" alt="GIF centrado de animação">
-  <br><br>
+  <img src="https://i.redd.it/xqiiu2121ejb1.gif" width="600" alt="GIF centrado de animação">
 </div>
 
-<div align="center">
+<div align="center" style="color:white; font-size: 18px; font-weight: bold;">
   <img src="https://i.pinimg.com/originals/4a/16/71/4a1671e979e89761d36681b7c92b4be0.gif" width="400" alt="Wonder Woman GIF">
-  <p style="color:#FFFFFF; font-size: 18px; font-weight: bold;">"A força feminina é única e se revela de forma especial em cada mulher. Esse poder aparece quando ela enfrenta dificuldades e, ainda assim, carrega um sorriso no rosto. É como se cada desafio fosse uma chance de mostrar ao mundo o quanto ela é incrível." 💪🚀</p>
+  <p>"A força feminina é única e se revela de forma especial em cada mulher. Esse poder aparece quando ela enfrenta dificuldades e, ainda assim, carrega um sorriso no rosto. É como se cada desafio fosse uma chance de mostrar ao mundo o quanto ela é incrível." 💪🚀</p>
 </div>
