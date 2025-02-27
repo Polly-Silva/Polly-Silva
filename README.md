@@ -50,19 +50,14 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Polly-Silva&theme=dark&hide_border=false" alt="Github Streak Stats"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Polly-Silva&theme=github_dark" alt="GitHub Profile Summary" width="800"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Polly-Silva&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Polly-Silva&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="400"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polly-Silva&theme=dark&hide_border=true&layout=compact" alt="GitHub Top Languages" width="400"/>
+</div>
 
 ![github-contribution-grid-snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=black-white)
 
