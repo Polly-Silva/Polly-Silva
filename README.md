@@ -24,8 +24,6 @@
 
 - 🚀 Profissional de Tecnologia com experiência em Agilidade, Gestão de Projetos e Desenvolvimento de Software.
 - 🎓 Bacharel em Engenharia da Computação.
-- 💼 Atuando como Scrum Master e Product Manager na área de Criptomoedas e Governança de Dados.
-- 📊 Especialista em Data Science e Business Intelligence, com experiência em Machine Learning e análise preditiva.
 - 🌱 Aprimorando conhecimentos em Inteligência Artificial e Computação em Nuvem.
 
 ---
