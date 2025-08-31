@@ -22,7 +22,7 @@
 
 ## Sobre mim
 
-- 🚀 Profissional de Tecnologia com experiência em Agilidade, Gestão de Projetos e Desenvolvimento de Software.
+- 🚀 Profissional de Tecnologia com experiência em Agilidade, Gestão de Projetos.
 - 🎓 Bacharel em Engenharia da Computação.
 - 🌱 Aprimorando conhecimentos em Inteligência Artificial e Computação em Nuvem.
 
