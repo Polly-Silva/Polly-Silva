@@ -70,7 +70,7 @@
 
 <div align="center">
   <h3><b style="color:white;">📍 Profile Visitor Count</b></h3>
-  <img src="https://profile-counter.glitch.me/Polly-Silva/count.svg" alt="Profile visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=Polly-Silva&label=VISITANTES&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </div>
 
 ---
